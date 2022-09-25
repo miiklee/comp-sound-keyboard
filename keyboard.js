@@ -27,6 +27,11 @@ document.addEventListener("DOMContentLoaded", function(event) {
         '89': 880.000000000000000,  //Y - A
         '55': 932.327523036179832, //7 - A#
         '85': 987.766602512248223,  //U - B
+        '73': 1046.50,  //I - C
+        '57': 1108.73,  //9 - C#
+        '79': 1174.66, //O - D
+        '48': 1244.51, //0 - D#
+        '80': 1318.51, //P - E
     }
     
     window.addEventListener('keydown', keyDown, false);
