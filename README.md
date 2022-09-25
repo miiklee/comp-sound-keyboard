@@ -9,7 +9,7 @@ forward multiple colors.
 Each note plays within a consistent ADSR envelope, and when multiple notes are played simultaneously, their amplitudes are adjusted
 accordingly to maintain a max total amplitude of 1 and prevent clipping.
 
-###### supports range of notes C_4 - E_6 with mapping to keyboard keys as follows: 
+###### supports range of notes C<sub>4</sub> - E<sub>6</sub> with mapping to keyboard keys as follows: 
 
       Z - C
       S - C#
