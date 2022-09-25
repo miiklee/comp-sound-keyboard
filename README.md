@@ -1,4 +1,4 @@
-##Electronic keyboard made with webaudio API for Barnard COMS 3430, Computational Sound with Prof Mark Santolucito. ##
+## Electronic keyboard made with webaudio API for Barnard COMS 3430, Computational Sound with Prof Mark Santolucito. 
 
 
 With each click of a key, a new note is produced and the color of the text changes to the next in order. Once one extreme
@@ -8,7 +8,7 @@ forward multiple colors.
 Each note plays within a consistent ADSR envelope, and when multiple notes are played simultaneously, their amplitudes are adjusted
 accordingly to maintain a max total amplitude of 1 and prevent clipping.
 
-######supports range of notes C4 - E6 with mapping to keyboard keys as follows: ######
+###### supports range of notes C4 - E6 with mapping to keyboard keys as follows: 
 
       Z - C
       S - C#
